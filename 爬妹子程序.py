@@ -5,12 +5,14 @@ import requests
 
 #获取主页的标题和子页的图片
 
+enter=input('enter')
+
 def 爬虫第一页():
     try:
         for i in range(0,1):
 
-            urlfirst_zi='http://img1.mm131.me/pic/4819/1.jpg'
-            urlfirst='http://www.mm131.com/xinggan/4819.html'
+            urlfirst_zi='http://img1.mm131.me/pic/'+enter+'/1.jpg'
+            urlfirst='http://www.mm131.com/xinggan/'+enter+'.html'
             headers={
                 'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36',
                 'Referer':'http://www.mm131.com/xinggan/4819.html'
@@ -53,8 +55,8 @@ def 爬虫第一页():
 def 爬虫():
     try:
         for i in range(0,100):
-            url1='http://img1.mm131.me/pic/4819/'+str(i)+'.jpg'
-            url2='http://www.mm131.com/xinggan/4819_'+str(i)+'.html'
+            url1='http://img1.mm131.me/pic/'+enter+'/'+str(i)+'.jpg'
+            url2='http://www.mm131.com/xinggan/'+enter+'_'+str(i)+'.html'
             headers={
                 'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36',
                 'Referer':'http://www.mm131.com/xinggan/4819_'+str(i)+'.html'
