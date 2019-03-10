@@ -30,11 +30,15 @@ def 保存到DB(html):
             'referenceTime':comment['referenceTime'],#评论时间
     
         }
+        
+        #用update去重
+        if db['BeefRate'].update_one({'content':info['content']},{'$set':info},True):
+            print('保存成功：',info)
 
-        if db['BeefRate'].insert_one(info):
-            print('保存成功:',info)
-        else:
-            print('保存失败:', info)
+        # if db['BeefRate'].insert_one(info):
+        #     print('保存成功:',info)
+        # else:
+        #     print('保存失败:', info)
 
 
         保存到_txt(info)
