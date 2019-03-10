@@ -18,7 +18,8 @@ def 保存到_txt(info):
     print('ok')
 
 def 保存到DB(html):
-    html = html.replace('fetchJSON_comment98vv73(','').replace(');','')
+    html = html.replace('fetchJSON_comment98vv74(','').replace(');','')
+    print(html)
     result=json.loads(html)
     comments = result['comments']
     for comment in comments:#对每条信息进行循环
@@ -39,16 +40,19 @@ def 保存到DB(html):
 
 
 def 获取连接内容():
+    
     page=int(input('想要获取多少页的评论'))
+    
     for i in range(0,page):
-
-        url='https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv73&productId=100003023800&score=0&sortType=5&page=4&pageSize=10&isShadowSku=0&rid=0&fold=1'
+        rrl='https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv74&productId=100003023800&score=0&sortType=5&page=0&pageSize=10&isShadowSku=0&fold=1'
+        url='https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv74&productId=100003023800&score=0&sortType=5&page='+str(i)+'&pageSize=10&isShadowSku=0&rid=0&fold=1'
         headers={
             'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36',
             'accept-language': 'zh-CN,zh;q=0.9'
         }
         req=requests.get(url=url,headers=headers)
         req.decoding='gbk'
+        time.sleep(1)
 
         html=req.text
         保存到DB(html)
