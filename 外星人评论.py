@@ -3,6 +3,7 @@ import re
 import requests
 import json
 import pymongo
+from fake_useragent import UserAgent
 
 MONGO_URL = 'localhost'
 MONGO_DB = 'JdProduct'
@@ -42,16 +43,17 @@ def 保存到DB(html):
 def 获取连接内容():
     
     page=int(input('想要获取多少页的评论'))
-    
+   
     for i in range(0,page):
-        rrl='https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv74&productId=100003023800&score=0&sortType=5&page=0&pageSize=10&isShadowSku=0&fold=1'
+        ua=UserAgent().Chrome
         url='https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv74&productId=100003023800&score=0&sortType=5&page='+str(i)+'&pageSize=10&isShadowSku=0&rid=0&fold=1'
         headers={
-            'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36',
+            'User-Agent':ua,
             'accept-language': 'zh-CN,zh;q=0.9'
         }
         req=requests.get(url=url,headers=headers)
         req.decoding='gbk'
+        print('已获取第'+str(i)+'页的内容')
         time.sleep(1)
 
         html=req.text
