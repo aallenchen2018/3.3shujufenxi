@@ -1,5 +1,5 @@
 import time
-from jdspider import *
+from 京东spider import *
 import pickle
 
 KEYWORD = '笔记本'
