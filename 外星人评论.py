@@ -28,7 +28,7 @@ def 保存到DB(html):
             'content':comment['content'],#评论信息
             'productColor':comment['productColor'],#产品信息
             'referenceTime':comment['referenceTime'],#评论时间
-    
+        
         }
         
         #用update去重
