@@ -9,9 +9,9 @@ import re
 from bs4 import BeautifulSoup
 import pymongo
 import selenium
+#######备注：京东的秒杀，框架没被爬取出‘
 
-
-KEYWORD = '笔记本'
+KEYWORD = input('想要搜索的东西')
 
 browser = webdriver.Chrome()
 wait = WebDriverWait(browser,10)

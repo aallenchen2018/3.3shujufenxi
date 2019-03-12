@@ -1,0 +1,63 @@
+{ "_id" : { "$oid" : "5c87aceeb38657ea15dfb7d4" }, "name" : "联想ThinkPad 翼480（04CD）英特尔酷睿i5 14英寸轻薄窄边框笔记本电脑（i5-8250U 8G 256SSD ）冰原银", "price" : "5299.00", "shop" : "ThinkPad京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87aceeb38657ea15dfb7d5" }, "name" : "荣耀MagicBook 14英寸轻薄窄边框笔记本电脑（AMD锐龙5 8G 256G FHD IPS 正版Office）冰河银", "price" : "3699.00", "shop" : "荣耀京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87aceeb38657ea15dfb7d6" }, "name" : "荣耀MagicBook 14英寸轻薄窄边框笔记本电脑（AMD锐龙5 8G 512G FHD IPS 正版Office）冰河银", "price" : "3999.00", "shop" : "荣耀京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87aceeb38657ea15dfb7d7" }, "name" : "联想(Lenovo)拯救者Y7000P英特尔酷睿 i7 15.6英寸高色域游戏笔记本电脑(i7-8750H 8G 512G GTX1060 144Hz)", "price" : "8099.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7d8" }, "name" : "联想(Lenovo)330C 英特尔酷睿i5 15.6英寸商务影音笔记本电脑(i5-8250U 4G 1T+128G SSD 独显MX110)黑", "price" : "3999.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7d9" }, "name" : "联想ThinkPad 翼480 14英寸轻薄窄边框笔记本电脑（八代英特尔酷睿i5 8G 128GSSD+500G 2G独显 FHD）冰原银", "price" : "4899.00", "shop" : "ThinkPad京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7da" }, "name" : "戴尔灵越14 燃 14英寸英特尔酷睿i5轻薄窄边框笔记本电脑(i5-8265U 8G 256G MX150 2G独显)银", "price" : "4988.00", "shop" : "戴尔京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7db" }, "name" : "荣耀MagicBook 14英寸轻薄窄边框笔记本电脑（i5-8250U 8G 256G MX150 2G独显 FHD IPS 正版Office）冰河银", "price" : "4799.00", "shop" : "荣耀京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7dc" }, "name" : "惠普（HP）EliteBook 745G5 14英寸轻薄笔记本电脑（锐龙5 PRO 2500U 8G 256SSD Win10 FHD Office一年上门）", "price" : "4799.00", "shop" : "惠普京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7dd" }, "name" : "联想(Lenovo)小新潮7000 14英寸轻薄窄边框笔记本电脑(AMD锐龙5 8G 512G PCIe FHD IPS)极光银", "price" : "3999.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7de" }, "name" : "联想(Lenovo)拯救者Y7000英特尔酷睿i5 15.6英寸高色域游戏笔记本电脑( i5-8300H 8G 512G  GTX1050Ti 72% NTSC)", "price" : "6299.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7df" }, "name" : "小米 (MI)Ruby 15.6英寸金属轻薄笔记本电脑(i5-8250U 4G 1T+128G SSD 2G GDDR5独显 FHD 全键盘 正版Office Win10) 深空灰", "price" : "3999.00", "shop" : "小米京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e0" }, "name" : "联想(Lenovo)拯救者Y7000英特尔酷睿i5 15.6英寸游戏笔记本电脑( i5-8300H 8G 512G SSD GTX1050 黑)", "price" : "5499.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e1" }, "name" : "Apple MacBook Air 13.3英寸笔记本电脑 银色(2017款Core i5 处理器/8GB内存/128GB闪存 MQD32CH/A)", "price" : "6488.00", "shop" : "Apple产品京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e2" }, "name" : "联想(Lenovo)拯救者Y7000英特尔酷睿i7 15.6英寸高色域游戏笔记本电脑(i7 8G 512G GTX1050Ti 72%NTSC 黑)", "price" : "6999.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e3" }, "name" : "戴尔DELL游匣G315.6英寸英特尔酷睿i5游戏笔记本电脑(i5-8300H 8G 128G 1T GTX1050Ti 4G独显 IPS)", "price" : "5588.00", "shop" : "戴尔京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e4" }, "name" : "华硕顽石(ASUS) 五代FL8000UF 15.6英寸影音笔记本电脑(i7-8550U 8G 128GSSD+1T MX130 2G独显 FHD)星空灰", "price" : "4998.00", "shop" : "华硕京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e5" }, "name" : "Apple MacBook Pro 13.3英寸笔记本电脑 深空灰色 2018新款（四核八代i5 8G 256G固态硬盘 MR9Q2CH/A）", "price" : "14188.00", "shop" : "Apple产品京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e6" }, "name" : "联想ThinkPad 翼480 英特尔酷睿i5 14英寸轻薄窄边框笔记本电脑（i5-8250U 8G 256GSSD 2G独显 FHD ）银", "price" : "4599.00", "shop" : "ThinkPad京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e7" }, "name" : "惠普（HP）战66 Pro G1 14英寸轻薄笔记本电脑（i5-8250U 8G 360G PCIe SSD 标压MX150 2G独显）银色", "price" : "4999.00", "shop" : "惠普京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e8" }, "name" : "联想(Lenovo)拯救者Y7000P英特尔酷睿i5 15.6英寸高色域游戏笔记本电脑(i5 8G 512G PCIE GTX1050Ti 144Hz黑)", "price" : "6599.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7e9" }, "name" : "小米 (MI)Ruby 15.6英寸金属轻薄笔记本电脑(i5-8250U 8G 1T+128G SSD 2G GDDR5独显 FHD 全键盘 正版Office Win10) 深空灰", "price" : "4299.00", "shop" : "小米京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7ea" }, "name" : "戴尔DELL游匣G3烈焰版 15.6英寸游戏笔记本电脑(i7-8750H 8G 128GSSD 1T GTX1050Ti 4G独显 IPS)", "price" : "6488.00", "shop" : "戴尔京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7eb" }, "name" : "荣耀MagicBook 14英寸轻薄窄边框笔记本电脑（intel八代酷睿i7-8550U 8G 256G MX150 2G独显）冰河银", "price" : "5399.00", "shop" : "荣耀京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7ec" }, "name" : "联想ThinkPad E485（01CD）14英寸笔记本电脑（锐龙5-2500U 8G双通道 256GSSD FHD Win10）黑色", "price" : "3699.00", "shop" : "ThinkPad京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7ed" }, "name" : "戴尔DELL游匣G3 15.6英寸英特尔酷睿i5游戏笔记本电脑(i5-8300H 8G 128G 1T GTX1050Ti 4G独显 72%NTSC IPS)", "price" : "6299.00", "shop" : "戴尔京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7ee" }, "name" : "Apple MacBook Pro 13.3英寸笔记本电脑 银色 2018新款（四核八代i5 8G 256G固态硬盘 MR9U2CH/A）", "price" : "14188.00", "shop" : "Apple产品京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7ef" }, "name" : "联想(Lenovo)小新潮7000 英特尔酷睿i5 14英寸轻薄笔记本电脑( i5-8250U 8G 1T+128G PCIE SSD 独显R535 )银", "price" : "4999.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7f0" }, "name" : "戴尔灵越14 燃 14英寸英特尔酷睿i7轻薄窄边框笔记本电脑(i7-8565U 8G 256G MX150 2G独显)银", "price" : "5788.00", "shop" : "戴尔京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acefb38657ea15dfb7f1" }, "name" : "联想(Lenovo)拯救者Y7000P英特尔酷睿i5 15.6英寸高色域游戏笔记本电脑(i5 8G 512G SSD GTX1060 144Hz)", "price" : "7099.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf3b38657ea15dfb7f2" }, "name" : "惠普（HP）暗影精灵4代 15.6英寸游戏笔记本电脑（i5-8300H 8G 128G+1TB GTX1050Ti 4G独显 144Hz IPS FHD）", "price" : "6499.00", "shop" : "惠普京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7f3" }, "name" : "联想ThinkPad X280（1PCD）英特尔8代酷睿12.5英寸轻薄笔记本电脑（i5-8250U 8G 256GSSD Win10安全摄像头）", "price" : "5999.00", "shop" : "ThinkPad京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7f4" }, "name" : "惠普（HP）暗影精灵4代 15.6英寸游戏笔记本电脑（i5-8300H 8G 128G+1TB GTX1060 6G独显 四区背光键盘 IPS）", "price" : "7299.00", "shop" : "惠普京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7f5" }, "name" : "小米(MI)Pro 15.6英寸金属轻薄笔记本(i5-8250U 8G 256G PCIE SSD MX150 2G独显 72%NTSC FHD 指纹识别 预装office)深空灰", "price" : "5399.00", "shop" : "小米京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7f6" }, "name" : "小米(MI)游戏本 15.6英寸轻薄窄边框笔记本电脑（第八代英特尔酷睿I7-8750H 16G 1T+256G SSD GTX1060 6G 72%NTSC高色域 FHD）深空灰", "price" : "8599.00", "shop" : "小米京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7f7" }, "name" : "Apple MacBook Pro 15.4英寸笔记本电脑 深空灰色 配备2018新款（六核八代i7 16G 256G固态硬盘 MR932CH/A）", "price" : "18688.00", "shop" : "Apple产品京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7f8" }, "name" : "机械革命(MECHREVO) Z2 Air 72%IPS 1.82Kg 15.6英寸窄边框游戏笔记本i7-8750H 8G 512GSSD GTX1050Ti Office", "price" : "6499.00", "shop" : "机械革命京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7f9" }, "name" : "华硕顽石(ASUS) 五代FL8000UF 15.6英寸影音笔记本电脑(i7-8550U 8G 128GSSD+1T MX130 2G独显 FHD)香槟金", "price" : "4998.00", "shop" : "华硕京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7fa" }, "name" : "小米 (MI)Ruby 15.6英寸金属轻薄笔记本电脑(i7-8550U 8G 1T+128G SSD 2G GDDR5独显 FHD 全键盘 正版Office Win10) 深空灰", "price" : "4899.00", "shop" : "小米京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7fb" }, "name" : "得力(deli)25K96张可插笔绑带皮面本 文具记事本工作笔记本子 黑色22215", "price" : "19.00", "shop" : "得力京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7fc" }, "name" : "华硕a豆(adol) 13.3英寸四面窄边框轻薄笔记本电脑(i3-8145U 4G 256GSSD IPS)玫瑰金", "price" : "3488.00", "shop" : "华硕京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7fd" }, "name" : "得力(deli)10本A5/60张无线装订笔记本子工作笔记本 文具软抄本记事本7653", "price" : "23.00", "shop" : "得力京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7fe" }, "name" : "联想ThinkPad 翼480 英特尔酷睿i7 14英寸轻薄窄边框笔记本电脑（i7-8550U 8G 128GSSD+1T 2G独显 FHD）银", "price" : "6499.00", "shop" : "ThinkPad京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb7ff" }, "name" : "联想(Lenovo)拯救者Y7000P 15.6英寸高色域电竞屏游戏笔记本电脑(i7-8750H 16G 2T+512G PCIE SSD GTX1060 144Hz京东战队纪念款)", "price" : "9999.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb800" }, "name" : "戴尔DELL燃7000 pro 15.6英寸英特尔酷睿i5轻薄窄边框笔记本电脑(i5-8265U 8G 128GSSD 1T MX150独显)冰河银", "price" : "5699.00", "shop" : "戴尔京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb801" }, "name" : "联想(Lenovo)小新Air 英特尔酷睿i5 13.3英寸超轻薄笔记本电脑(i5-8265U 8G 512G PCIE SSD 独显MX150 高色域)轻奢灰", "price" : "5299.00", "shop" : "联想电脑京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb802" }, "name" : "惠普（HP）暗影精灵4代Plus 17.3英寸游戏笔记本（ i7-8750H 16GB 1TB+256GB GTX1070 8G 144Hz G-Sync IPS）", "price" : "12999.00", "shop" : "惠普京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb803" }, "name" : "Apple MacBook Pro 13.3英寸笔记本电脑 深空灰色（2017款Core i5处理器/8GB内存/256GB硬盘 MPXT2CH/A）", "price" : "11786.00", "shop" : "Apple产品京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb804" }, "name" : "惠普(HP)星 13-an0002TU 13.3英寸轻薄笔记本电脑(i5-8265U 8G 256G PCIE SSD UMA FHD IPS 72%色域)银", "price" : "4999.00", "shop" : "惠普京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb805" }, "name" : "华硕a豆(adol) 13.3英寸四面窄边框轻薄笔记本电脑(i3-8130U 4G 256GSSD IPS)皓月银", "price" : "3488.00", "shop" : "华硕京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb806" }, "name" : "Apple MacBook Pro 13.3英寸笔记本电脑 银色（2017款Core i5处理器/8GB内存/256GB硬盘 MPXU2CH/A）", "price" : "11786.00", "shop" : "Apple产品京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb807" }, "name" : "戴尔灵越14 燃 14英寸轻薄窄边框笔记本电脑(i5-8265U 8G 256GSSD FHD 背光键盘)冰河银", "price" : "4688.00", "shop" : "戴尔京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb808" }, "name" : "联想ThinkPad E480（2XCD）14英寸轻薄窄边框笔记本电脑（i3-7020U 4G 500G FHD Win10）银", "price" : "2999.00", "shop" : "ThinkPad京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb809" }, "name" : "Apple MacBook Pro 15.4英寸笔记本电脑 深空灰色 配备2018新款（六核八代i7 16G 512G固态硬盘 MR942CH/A）", "price" : "21988.00", "shop" : "Apple产品京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb80a" }, "name" : "Apple MacBook Pro 13.3英寸笔记本电脑 深空灰色 配备2018新款（四核八代i5 8G 512G固态硬盘 MR9R2CH/A）", "price" : "15788.00", "shop" : "Apple产品京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb80b" }, "name" : "全新外星人Alienware17.3英寸轻薄游戏笔记本电脑(八代i7-8750H 16G 256GSSD 1T RTX2060 6G独显)银", "price" : "19999.00", "shop" : "外星人京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb80c" }, "name" : "惠普(HP)星 13-an0005TU 13.3英寸轻薄笔记本电脑(i7-8565U 8G 256G PCIE SSD UMA FHD IPS 72%色域)银", "price" : "5699.00", "shop" : "惠普京东自营官方旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb80d" }, "name" : "得力(deli)6本B5/60张牛皮纸软抄本  缝线记事本文具笔记本子33387", "price" : "28.00", "shop" : "得力京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb80e" }, "name" : "荣耀MagicBook14英寸轻薄窄边框笔记本电脑（i5-8250U 8G 512G MX150 2G独显 FHD IPS ）冰河银", "price" : "4999.00", "shop" : "荣耀京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87acf4b38657ea15dfb80f" }, "name" : "得力(deli)10本A5/38张无线装订软抄本 办公记事本文具笔记本子33385", "price" : "15.00", "shop" : "得力京东自营旗舰店" }
+{ "_id" : { "$oid" : "5c87adb6b38657ea15dfb810" }, "name" : "联想(Lenovo)小新Air 英特尔酷睿i5 13.3英寸超轻薄笔记本电脑( i5-8265U 8G 256G PCIe SSD 独显MX150高色域)轻奢灰", "shop" : "联想电脑京东自营旗舰店", "price" : "4998.00" }
+{ "_id" : { "$oid" : "5c87adbab38657ea15dfb811" }, "name" : "联想(Lenovo)小新14英寸 英特尔酷睿I5 轻薄笔记本电脑(I5-8265U 8G 1T+256G PCIE MX230独显 IPS)渣渣灰", "shop" : "联想电脑京东自营旗舰店", "price" : "5099.00" }
+{ "_id" : { "$oid" : "5c87adbbb38657ea15dfb812" }, "name" : "联想(Lenovo)小新潮7000八代英特尔酷睿i514英寸轻薄笔记本电脑(I5-8250U 8G 512G PCIE SSD R535独显 )银", "shop" : "联想电脑京东自营旗舰店", "price" : "4899.00" }
