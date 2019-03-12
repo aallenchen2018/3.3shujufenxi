@@ -59,11 +59,12 @@ def get_search():
 
 def get_next(pn):
     try:
-        input=wait.until(EC.presence_of_element_located((By.CSS_SELECTOR,'#J_bottomPage > span.p-skip > input')))
-        button=wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR,'#J_bottomPage > span.p-skip > a')))
-        input.clear()
-        input.send_keys(pn)
-        button.click
+        # input=wait.until(EC.presence_of_element_located((By.CSS_SELECTOR,'#J_bottomPage > span.p-skip > input')))
+        button=wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR,'#J_bottomPage > span.p-num > a.pn-next > em')))
+
+        # input.clear()
+        # input.send_keys(pn)
+        button.click()
         #判断是否加载好
         #wait...
         get_info(browser.page_source)
@@ -77,11 +78,13 @@ def get_info(html):
     for result in results:
         info={
             'price':result.select('#J_goodsList > ul > li > div > div.p-price > strong > i')[0].get_text(),
-            'shop':result.select('#J_goodsList > ul > li > div > div.p-shop > span > a')[0].get_text(),
             'name':result.select('#J_goodsList > ul > li > div > div.p-name.p-name-type-2 > a > em')[0].get_text()
 
 
         }
+
+
+
         save_info(info)
     
 
@@ -93,11 +96,9 @@ def main():
     for pn in range(2,pagech):
         print(pn)
         get_next(pn)
+        time.sleep(5)
     browser.close()
-    time.sleep(5)
+    
 
 if __name__=='__main__':
     main()
-
-
-
