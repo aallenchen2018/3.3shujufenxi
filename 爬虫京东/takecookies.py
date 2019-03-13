@@ -1,5 +1,5 @@
 import time
-from 京东spider import *
+from 京东final import *
 import pickle
 
 KEYWORD = '笔记本'
@@ -26,6 +26,7 @@ def get_search():
     wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR,'#J_bottomPage > span.p-num > a.curr')))
     time.sleep(3)
     browser.close
+    
 def main():
     get_search()
 
