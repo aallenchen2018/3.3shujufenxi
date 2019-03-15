@@ -59,7 +59,6 @@ def 获取连接内容():
         req.decoding='gbk'
         print('已获取第'+str(i)+'页的内容')
         time.sleep(1)
-
         html=req.text
         保存到DB(html)
 
