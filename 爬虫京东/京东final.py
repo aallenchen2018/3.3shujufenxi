@@ -43,10 +43,10 @@ def get_search():
         print(input)
         input.send_keys(KEYWORD)
         button.click()
-        wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR,'#J_bottomPage > span.p-num > a.curr')))
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR,'#J_bottomPage > span.p-num > a.curr')))
         get_info(browser.page_source)
         #提取页码信息
-        page=wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR,'#J_topPage > span > i')))
+        page=wait.until(EC.presence_of_element_located((By.CSS_SELECTOR,'#J_topPage > span > i')))
         
         print('page: '+str(page))
         ###
