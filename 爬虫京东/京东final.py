@@ -14,7 +14,7 @@ import selenium
 KEYWORD = input('想要搜索的东西')
 
 browser = webdriver.Chrome()
-wait = WebDriverWait(browser,10)
+wait = WebDriverWait(browser,5)
 
 MONGO_URL = 'localhost'
 MONGO_DB = 'JingDong'
