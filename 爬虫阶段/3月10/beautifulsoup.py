@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import pyquery
+
 
 html = """
 <html><head><title>百度一下，你就知道</title></head>
